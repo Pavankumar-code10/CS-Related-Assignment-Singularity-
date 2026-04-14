@@ -1,0 +1,9 @@
+star_name,temperature,mass,luminosity,distance
+Sun,5778.0,1.0,1.0,0.0
+AlphaCentauriA,5790.0,1.1,1.5,4.3
+AlphaCentauriB,5260.0,0.9,0.5,4.3
+Betelgeuse,3500.0,18.0,120000.0,642.0
+Sirius,9940.0,2.1,25.4,8.6
+StarX,5260.0,2.0,5.1,10.0
+StarY,3000.0,1.2,2.0,15.0
+StarZ,4500.0,1.2,2.0,20.0
